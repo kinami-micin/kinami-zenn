@@ -3,7 +3,9 @@ title: "MICIN技術強化委員会の取り組み"
 emoji: "📚"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Database"]
-published: false
+publication_name: "micin"
+published: true
+published_at: 2023-12-06
 ---
 
 この記事は [MICIN Advent Calendar 2023](https://adventar.org/calendars/9595) の 6日目の記事です。
