@@ -1,7 +1,7 @@
 ---
 title: "MICIN技術強化委員会の取り組み"
 emoji: "📚"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Database"]
 publication_name: "micin"
 published: true
