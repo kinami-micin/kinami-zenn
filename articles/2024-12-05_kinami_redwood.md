@@ -5,7 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["RedwoodJS","Framework","TypeScript"]
 publication_name: "micin"
 published: true
-published_at: 2024-12-05 00:00
+published_at: 2024-12-05 10:00
 ---
 
 この記事は [MICIN Advent Calendar 2024](https://adventar.org/calendars/10022) の 5日目の記事です。
