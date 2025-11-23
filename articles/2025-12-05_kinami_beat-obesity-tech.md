@@ -1,5 +1,5 @@
 ---
-title: "還暦プログラマが -14kg 達成！「脱・肥満症」ガジェット＆アプリ運用術"
+title: "「脱・肥満症」ガジェット＆アプリ運用術"
 emoji: "🐥"
 type: "idea"
 topics: [obesity, health, gadget, lifehack]
