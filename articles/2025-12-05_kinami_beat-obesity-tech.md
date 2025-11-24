@@ -2,6 +2,7 @@
 title: "「脱・肥満症」ガジェット＆アプリ運用術"
 emoji: "🐥"
 type: "idea"
+publication_name: "micin"
 topics: [obesity, health, gadget, lifehack]
 published: false
 ---
