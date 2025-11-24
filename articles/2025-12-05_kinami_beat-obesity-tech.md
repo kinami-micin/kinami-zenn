@@ -4,7 +4,6 @@ emoji: "🐥"
 type: "idea"
 topics: [obesity, health, gadget, lifehack]
 published: false
-published_at: 2025-12-05 10:00
 ---
 
 この記事は [MICIN Advent Calendar 2025](https://adventar.org/calendars/11601) の 5日目の記事です。  
