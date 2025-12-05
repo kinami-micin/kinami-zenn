@@ -9,7 +9,7 @@ published_at: 2025-12-05 10:00
 ---
 
 この記事は [MICIN Advent Calendar 2025](https://adventar.org/calendars/11601) の 5日目の記事です。  
-前回は Hiroaki Sasaki さんの [React Native の Web View と Webブラウザにおけるビデオ通話の再生ポリシーの違い](https://zenn.dev/micin/articles/0a6acfaea36753) でした。
+前回は doutoriさんの [React Native の Web View と Webブラウザにおけるビデオ通話の再生ポリシーの違い](https://zenn.dev/micin/articles/0a6acfaea36753) でした。
 
 ## はじめに
 
